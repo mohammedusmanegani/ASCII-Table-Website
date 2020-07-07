@@ -1,0 +1,70 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.ascii-table{
+  margin: 2%;
+  border: 1px solid #ff9800;
+  border-radius: 5px; 
+}
+.ascii-table-title{
+  margin: 2%;
+}
+.fa {
+  border-radius: 50%; 
+  padding: 10px;
+  font-size: 25px;
+  width: 33px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: #fff;
+  transition: 0.5s;
+}
+.fa-facebook:hover{
+    background: #fff;
+    color: #3B5998;
+    transition: 0.3s;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: #fff;
+  transition: 0.5s;
+}
+.fa-linkedin:hover{
+    background: #fff;
+    color: #007bb5;
+    transition: 0.3s;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: #fff;
+  transition: 0.5s;
+}
+.fa-twitter:hover {
+  background: #fff;
+  color: #55ACEE;
+  transition: 0.3s;
+}
+.fa-instagram {
+  background: #125688;
+  color: #fff;
+  transition: 0.5s;
+}
+.fa-instagram:hover {
+  background: #fff;
+  color: #125688;
+  transition: 0.3s;
+}
